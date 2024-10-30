@@ -3,9 +3,44 @@
 
 **Apresentação: 
 
+![profile-pic (14)](https://github.com/user-attachments/assets/3925a765-c7c6-4d9b-829b-f262be849ec9)
+
+
 ✨ Olá, sou **Elias Andrade**, arquiteto de soluções de Inteligência Artificial com 14 anos de experiência na área de TI desde 2010. Na **Replika AI Solutions**, nossa missão é transformar a maneira como empresas operam e interagem com a tecnologia, utilizando inovação e criatividade como pilares centrais.
 
 ![Replika AI Solutions](https://img.shields.io/badge/Replika_AI_Solutions-Startup-brightgreen?style=for-the-badge&logo=github)
+
+## 📞 Entre em Contato
+
+Estamos prontos para ouvir você! Se você está interessado em saber mais sobre nossas soluções ou deseja discutir como podemos ajudar sua empresa, não hesite em nos contatar:
+
+![Contact Us](https://img.shields.io/badge/Contact_Us-Get_In_Touch-brightgreen?style=for-the-badge)
+
+📍 Localização: Maringá, Paraná, Brasil  
+📱 Contato: +55 44 9 8859-7001 | +55 11 9 1335-3137  
+📧 E-mail: oeliasandrade@gmail.com  
+🌐 Site Oficial: [www.replika.com.br](http://www.replika.com.br)  
+
+---
+# 🚀 Vamos Agendar uma Conversa!
+
+Se você está buscando discutir ideias, explorar parcerias ou quer saber mais sobre como posso ajudar em seus projetos, ficarei feliz em conversar com você! Marque uma reunião online para falarmos sobre **Inteligência Artificial**, **DevOps**, **Automação** e muito mais!
+
+📅 [Clique aqui para agendar uma call de 30 minutos comigo no Calendly!](https://calendly.com/oeliasandrade/30min)
+
+Estou ansioso para compartilhar ideias e explorar oportunidades juntos! 🚀
+
+[![YouTube - Portfólio Replika AI Solutions](https://img.shields.io/badge/Portfólio_Replika_AI-YouTube-red?logo=youtube)](https://www.youtube.com/@Replika-AI-Solutions) 
+[![YouTube - Portfólio Evolução IT](https://img.shields.io/badge/Portfólio_Evolução_IT-YouTube-red?logo=youtube)](https://www.youtube.com/@evolucaoit-replikasistemas)
+
+## 🌐 Outros Repositórios de Projetos
+
+Explore meus outros repositórios de soluções e projetos mais empresariais
+
+[![GitHub - Replika AI Solutions](https://img.shields.io/badge/Repositório_Replika_AI_Solutions-GitHub-black?logo=github)](https://github.com/replika-ai-solutions)  
+[![GitHub - Evolução IT](https://img.shields.io/badge/Repositório_Evolução_IT-GitHub-black?logo=github)](https://github.com/evolucaoit)
+
+
 
 ## 🏆 Nossa Metodologia de Resultados
 Na Replika AI Solutions, temos orgulho em apresentar nossa metodologia que visa **aumentar a receita em 10%** e **reduzir custos em 10%**. Acreditamos que a inovação e a eficiência são essenciais para o sucesso em um mercado competitivo. Nossas práticas são baseadas em **DevOps** e **Lean Startup**, garantindo entregas rápidas e eficazes.
@@ -83,38 +118,6 @@ Nossas soluções são adaptadas para atender diversas necessidades empresariais
 - **Tomada de Decisões Inteligentes**: Agentes que analisam cenários e sugerem ações baseadas em dados, melhorando a precisão nas decisões.
 
 ---
-
-## 📞 Entre em Contato
-
-Estamos prontos para ouvir você! Se você está interessado em saber mais sobre nossas soluções ou deseja discutir como podemos ajudar sua empresa, não hesite em nos contatar:
-
-![Contact Us](https://img.shields.io/badge/Contact_Us-Get_In_Touch-brightgreen?style=for-the-badge)
-
-📍 Localização: Maringá, Paraná, Brasil  
-📱 Contato: +55 44 9 8859-7001 | +55 11 9 1335-3137  
-📧 E-mail: oeliasandrade@gmail.com  
-🌐 Site Oficial: [www.replika.com.br](http://www.replika.com.br)  
-
----
-# 🚀 Vamos Agendar uma Conversa!
-
-Se você está buscando discutir ideias, explorar parcerias ou quer saber mais sobre como posso ajudar em seus projetos, ficarei feliz em conversar com você! Marque uma reunião online para falarmos sobre **Inteligência Artificial**, **DevOps**, **Automação** e muito mais!
-
-📅 [Clique aqui para agendar uma call de 30 minutos comigo no Calendly!](https://calendly.com/oeliasandrade/30min)
-
-Estou ansioso para compartilhar ideias e explorar oportunidades juntos! 🚀
-
-[![YouTube - Portfólio Replika AI Solutions](https://img.shields.io/badge/Portfólio_Replika_AI-YouTube-red?logo=youtube)](https://www.youtube.com/@Replika-AI-Solutions) 
-[![YouTube - Portfólio Evolução IT](https://img.shields.io/badge/Portfólio_Evolução_IT-YouTube-red?logo=youtube)](https://www.youtube.com/@evolucaoit-replikasistemas)
-
-## 🌐 Outros Repositórios de Projetos
-
-Explore meus outros repositórios de soluções e projetos mais empresariais
-
-[![GitHub - Replika AI Solutions](https://img.shields.io/badge/Repositório_Replika_AI_Solutions-GitHub-black?logo=github)](https://github.com/replika-ai-solutions)  
-[![GitHub - Evolução IT](https://img.shields.io/badge/Repositório_Evolução_IT-GitHub-black?logo=github)](https://github.com/evolucaoit)
-
-
 ## 🚀 Nossa Missão
 
 Na Replika AI Solutions, buscamos **transformar a maneira como empresas interagem, automatizam e operam com dados e processos**. Com um enfoque em soluções robustas de Inteligência Artificial e automação, oferecemos tecnologias desenvolvidas para resolver desafios complexos, aumentando a produtividade e promovendo decisões informadas e automatizadas.

@@ -1,12 +1,3 @@
-# 🚀 Vamos Agendar uma Conversa!
-
-Se você está buscando discutir ideias, explorar parcerias ou quer saber mais sobre como posso ajudar em seus projetos, ficarei feliz em conversar com você! Marque uma reunião online para falarmos sobre **Inteligência Artificial**, **DevOps**, **Automação** e muito mais!
-
-📅 [Clique aqui para agendar uma call de 30 minutos comigo no Calendly!](https://calendly.com/oeliasandrade/30min)
-
-Estou ansioso para compartilhar ideias e explorar oportunidades juntos! 🚀
-
-
 # 🌐 Replika AI Solutions
 
 **Bem-vindo(a) ao perfil oficial da Replika AI Solutions no GitHub!**  
@@ -18,6 +9,24 @@ Com expertise em Inteligência Artificial, automação e soluções corporativas
 🌐 Site Oficial: [www.replika.com.br](http://www.replika.com.br)  
 
 ---
+# 🚀 Vamos Agendar uma Conversa!
+
+Se você está buscando discutir ideias, explorar parcerias ou quer saber mais sobre como posso ajudar em seus projetos, ficarei feliz em conversar com você! Marque uma reunião online para falarmos sobre **Inteligência Artificial**, **DevOps**, **Automação** e muito mais!
+
+📅 [Clique aqui para agendar uma call de 30 minutos comigo no Calendly!](https://calendly.com/oeliasandrade/30min)
+
+Estou ansioso para compartilhar ideias e explorar oportunidades juntos! 🚀
+
+[![YouTube - Portfólio Replika AI Solutions](https://img.shields.io/badge/Portfólio_Replika_AI-YouTube-red?logo=youtube)](https://www.youtube.com/@Replika-AI-Solutions) 
+[![YouTube - Portfólio Evolução IT](https://img.shields.io/badge/Portfólio_Evolução_IT-YouTube-red?logo=youtube)](https://www.youtube.com/@evolucaoit-replikasistemas)
+
+## 🌐 Outros Repositórios de Projetos
+
+Explore meus outros repositórios de soluções e projetos mais empresariais
+
+[![GitHub - Replika AI Solutions](https://img.shields.io/badge/Repositório_Replika_AI_Solutions-GitHub-black?logo=github)](https://github.com/replika-ai-solutions)  
+[![GitHub - Evolução IT](https://img.shields.io/badge/Repositório_Evolução_IT-GitHub-black?logo=github)](https://github.com/evolucaoit)
+
 
 ## 🚀 Nossa Missão
 
@@ -95,17 +104,6 @@ Interessado em saber mais sobre nossos projetos ou deseja uma solução personal
 
 ---
 
-## 🌱 Vamos Conectar
-
-Fique por dentro das novidades e acompanhe o crescimento da Replika AI Solutions!  
-Aqui, você verá uma combinação de pesquisa avançada em IA, desenvolvimento de frameworks e soluções aplicáveis ao mundo corporativo. Participe conosco nessa jornada e ajude-nos a construir o futuro da IA.
-
-**Siga-nos e conecte-se:**  
-- LinkedIn: [Replika AI Solutions](#)  
-- YouTube: [Replika AI Solutions](https://www.youtube.com/@Replika-AI-Solutions)
-
-Obrigado por visitar nosso perfil GitHub! Esperamos que nossos projetos e frameworks inspirem você a explorar o potencial ilimitado da Inteligência Artificial.
-
 
 # 🌐 Replika AI Solutions
 
@@ -172,19 +170,6 @@ Nossas soluções são adaptadas para atender diversas necessidades empresariais
 
 ---
 
-## 📂 Nossos Repositórios e Projetos
-
-Convido você a explorar nossos projetos open-source e demonstrações de nossos produtos principais:
-
-- **[Replika-AI-Frameworks](https://github.com/replika-ai-solutions)**: Frameworks personalizados para chatbots, agentes autônomos e automação de processos.
-- **[Prometheus-Specific-Domain-Agent](https://github.com/replika-ai-solutions/prometheus)**: Implementação do agente autônomo para domínios específicos.
-- **[Ecossistema Autônomo](https://github.com/replika-ai-solutions/ecossistema)**: Exemplos práticos de ecossistemas de agentes em ação, abordando desde a integração de dados até a tomada de decisões.
-- **[Automação com Google Gemini e ChatGPT](https://github.com/replika-ai-solutions/automacao)**: Demonstrações de integração com as APIs do Google e OpenAI.
-
-![GitHub Repositories](https://img.shields.io/badge/Explore_Our_Projects-GitHub-blue?style=for-the-badge&logo=github)
-
----
-
 ## 📞 Entre em Contato
 
 Estamos prontos para ouvir você! Se você está interessado em saber mais sobre nossas soluções ou deseja discutir como podemos ajudar sua empresa, não hesite em nos contatar:
@@ -196,17 +181,3 @@ Estamos prontos para ouvir você! Se você está interessado em saber mais sobre
 🌐 **Visite nosso site oficial:** [www.replika.com.br](http://www.replika.com.br)  
 
 ![Contact Us](https://img.shields.io/badge/Contact_Us-Get_In_Touch-brightgreen?style=for-the-badge)
-
----
-
-## 🌱 Vamos Conectar!
-
-Acompanhe as novidades da **Replika AI Solutions**! Estamos sempre à procura de maneiras de inovar e expandir nossas soluções. Aqui, você encontrará uma combinação de pesquisa avançada em IA, desenvolvimento de frameworks e soluções adaptadas às necessidades corporativas. 
-
-**Siga-nos e conecte-se:**  
-- LinkedIn: [Replika AI Solutions](#)  
-- YouTube: [Replika AI Solutions](https://www.youtube.com/@Replika-AI-Solutions)  
-
-👉 **Junte-se a nós na construção do futuro da Inteligência Artificial!**  
-
-Obrigado por visitar nosso perfil GitHub! Esperamos que nossos projetos inspirem você a explorar o potencial ilimitado da Inteligência Artificial.

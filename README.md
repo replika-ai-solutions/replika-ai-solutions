@@ -14,6 +14,11 @@
 
 Estamos prontos para ouvir você! Se você está interessado em saber mais sobre nossas soluções ou deseja discutir como podemos ajudar sua empresa, não hesite em nos contatar:
 
+## 🔗 **Conecte-se Comigo**:
+
+[![GitHub](https://img.shields.io/badge/GitHub-Elias%20Andrade-181717?style=flat-square&logo=github)](https://github.com/chaos4455)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias%20Andrade-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/itilmgf)
+
 ![Contact Us](https://img.shields.io/badge/Contact_Us-Get_In_Touch-brightgreen?style=for-the-badge)
 
 📍 Localização: Maringá, Paraná, Brasil  

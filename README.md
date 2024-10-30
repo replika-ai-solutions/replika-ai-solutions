@@ -1,7 +1,8 @@
 
 # 🌐 Replika AI Solutions
 
-**Apresentação: Elias Andrade**  
+**Apresentação: 
+
 ✨ Olá, sou **Elias Andrade**, arquiteto de soluções de Inteligência Artificial com 14 anos de experiência na área de TI desde 2010. Na **Replika AI Solutions**, nossa missão é transformar a maneira como empresas operam e interagem com a tecnologia, utilizando inovação e criatividade como pilares centrais.
 
 ![Replika AI Solutions](https://img.shields.io/badge/Replika_AI_Solutions-Startup-brightgreen?style=for-the-badge&logo=github)

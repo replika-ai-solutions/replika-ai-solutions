@@ -26,6 +26,13 @@ Estamos prontos para ouvir você! Se você está interessado em saber mais sobre
 📧 E-mail: oeliasandrade@gmail.com  
 🌐 Site Oficial: [www.replika.com.br](http://www.replika.com.br)  
 
+
+### 📈 Estatísticas no GitHub
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=replika-ai-solutions&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=replika-ai-solutions&show_icons=true&theme=dark)
+
+
 ---
 # 🚀 Vamos Agendar uma Conversa!
 

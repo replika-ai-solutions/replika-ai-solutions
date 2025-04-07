@@ -1,8 +1,6 @@
 
 # 🌐 Replika AI Solutions
 
-**Apresentação: 
-
 ![profile-pic (14)](https://github.com/user-attachments/assets/3925a765-c7c6-4d9b-829b-f262be849ec9)
 
 
